@@ -1,0 +1,9 @@
+{
+	"server_info": {
+		"server": "server.domain.com",
+		"user": "readonlyuser",
+		"password": "readonlypassword",
+		"database": "destiny"
+	},
+	"lockmessage": "Property of Example\n"
+}
